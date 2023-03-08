@@ -18,7 +18,7 @@ Programming
 Self-education
 Chess
 
-###4. Skills
+### 4. Skills
 Development of software macros on VBA. Creating a database management system on Access
 
 ### 5. Sample code
